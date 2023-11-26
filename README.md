@@ -22,6 +22,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
+##  README (NO MOMENTO OPTEI EM MANTER O DO CURSO) MAIS EM PROCESSO DE ALTERAÇÃO . 
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -49,4 +51,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
